@@ -4,7 +4,7 @@ Hi 👋 ,I am Sayali
 
 About Me
 
-Software Developer dedicated to improving skills through hands -on learning and development work. Proficient in HTML5, CSS, JavaScript, and other programming languages. Eager to contribute technical expertise and drive innovation in a challenging role. 
+FullStack Developer dedicated to improving skills through learning and development work. Proficient in HTML, CSS, JavaScript, and other programming languages. 
 
 Languages and Tools
 
